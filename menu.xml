@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+
+    <item>
+        <nombre>Iniciar Sesion</nombre>
+        <link>iniciarSession.html</link>
+    </item>
+    <item>
+        <nombre>Registrarse</nombre>
+        <link>registro.html</link>
+    </item>
+	
+</menu>
